@@ -14,7 +14,7 @@ Anchor Communication - Website
         <meta property="og:type" content="website"/>
         <meta property="og:title" content="Home - Anchor"/>
         <meta property="og:description" content="Explore Anchor Ultimate Service Anchor Consulting Group is a premier investment firm focused on driving growth within the communication, media, [&hellip;]"/>
-        <meta property="og:url" content="https://cyseventyfive.qcfixersolutions.com/"/>
+        <meta property="og:url" content=""/>
         <meta property="og:site_name" content="Anchor"/>
         <meta property="article:modified_time" content="2024-07-16T10:55:22+00:00"/>
         <meta property="og:image" content="https://cyseventyfive.qcfixersolutions.com/wp-content/uploads/2024/05/banner-min-4.png"/>
